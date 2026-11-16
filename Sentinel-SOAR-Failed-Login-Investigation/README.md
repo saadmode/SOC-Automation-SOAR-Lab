@@ -246,20 +246,6 @@ automatically change the incident status inside Microsoft Sentinel.
 -   Add analyst approval before any containment action.
 -   Document test cases, expected results, and screenshots.
 
-## 11. Demonstration
-
-Add your project video or screenshots here when available.
-
-For example:
-
-``` text
-docs/
-  architecture.png
-  sentinel-incident.png
-  shuffle-workflow.png
-  successful-execution.png
-  analyst-email.png
-```
 
 ------------------------------------------------------------------------
 
